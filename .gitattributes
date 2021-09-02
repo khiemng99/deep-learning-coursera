@@ -1,7 +1,0 @@
-*.mat filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.h5 filter=lfs diff=lfs merge=lfs -text
-*.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
-C4[[:space:]]Convolutional[[:space:]]Neural[[:space:]]Networks/Week4/Face[[:space:]]Recognition/keras-facenet_tf23/variables/variables.data-00000-of-00001
-C4[[:space:]]Convolutional[[:space:]]Neural[[:space:]]Networks/Week4/Art[[:space:]]Generation[[:space:]]with[[:space:]]Neural[[:space:]]Style[[:space:]]Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
-C4[[:space:]]Convolutional[[:space:]]Neural[[:space:]]Networks/Week3/Car[[:space:]]detection[[:space:]]with[[:space:]]YOLO/model_data/variables/variables.data-00000-of-00001
